@@ -2,10 +2,10 @@
 
 ## Martin Notation
 
-![](/Users/quirin/Documents/3AHITM/Informationssysteme/Uebungen/ERD07/erd07.png)
+![](./erd07.png)
 
 ## UML Notation
-![](/Users/quirin/Documents/3AHITM/Informationssysteme/Uebungen/ERD07/IMG_0659.JPG)
+![](./IMG_0659.JPG)
 
 ## Relations
 
